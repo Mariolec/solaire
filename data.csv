@@ -1,0 +1,21 @@
+Latitude (decimal degrees):	43.295
+Longitude (decimal degrees):	-0.372
+Radiation database:	PVGIS-SARAH2
+
+year		month		Kd
+2005		Jan		0.41
+2005		Feb		0.48
+2005		Mar		0.4
+2005		Apr		0.55
+2005		May		0.51
+2005		Jun		0.41
+2005		Jul		0.44
+2005		Aug		0.41
+2005		Sep		0.46
+2005		Oct		0.47
+2005		Nov		0.46
+2005		Dec		0.45
+
+Kd: Ratio of diffuse to global irradiation (-)
+
+PVGIS (c) European Union, 2001-2024
